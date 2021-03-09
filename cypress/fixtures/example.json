@@ -5,25 +5,10 @@
   "chipremail": "kingpokercps@chipr.com.br",
   "chiprpwd": "Unix11!",
   "novos_jogadores": [
-    {"username": "0021-automation", "usermail": "0021-automation@gmail.com", "userphone": "11999990021"},
-    {"username": "0022-automation", "usermail": "0022-automation@gmail.com", "userphone": "11999990022"},
-    {"username": "0023-automation", "usermail": "0023-automation@gmail.com", "userphone": "11999990023"},
-    {"username": "0024-automation", "usermail": "0024-automation@gmail.com", "userphone": "11999990024"},
-    {"username": "0025-automation", "usermail": "0025-automation@gmail.com", "userphone": "11999990025"},
-    {"username": "0026-automation", "usermail": "0026-automation@gmail.com", "userphone": "11999990026"},
-    {"username": "0027-automation", "usermail": "0027-automation@gmail.com", "userphone": "11999990027"},
-    {"username": "0028-automation", "usermail": "0028-automation@gmail.com", "userphone": "11999990028"},
-    {"username": "0029-automation", "usermail": "0029-automation@gmail.com", "userphone": "11999990029"},
-    {"username": "0030-automation", "usermail": "0030-automation@gmail.com", "userphone": "11999990030"},
-    {"username": "0031-automation", "usermail": "0031-automation@gmail.com", "userphone": "11999990031"},
-    {"username": "0032-automation", "usermail": "0032-automation@gmail.com", "userphone": "11999990032"},
-    {"username": "0033-automation", "usermail": "0033-automation@gmail.com", "userphone": "11999990033"},
-    {"username": "0034-automation", "usermail": "0034-automation@gmail.com", "userphone": "11999990034"},
-    {"username": "0035-automation", "usermail": "0035-automation@gmail.com", "userphone": "11999990035"},
-    {"username": "0036-automation", "usermail": "0036-automation@gmail.com", "userphone": "11999990036"},
-    {"username": "0037-automation", "usermail": "0037-automation@gmail.com", "userphone": "11999990037"},
-    {"username": "0038-automation", "usermail": "0038-automation@gmail.com", "userphone": "11999990038"},
-    {"username": "0039-automation", "usermail": "0039-automation@gmail.com", "userphone": "11999990039"},
-    {"username": "0040-automation", "usermail": "0040-automation@gmail.com", "userphone": "11999990040"}
+    {"username": "0056-automation", "usermail": "0056-automation@gmail.com", "userphone": "11999990056"},
+    {"username": "0057-automation", "usermail": "0057-automation@gmail.com", "userphone": "11999990057"},
+    {"username": "0058-automation", "usermail": "0058-automation@gmail.com", "userphone": "11999990058"},
+    {"username": "0059-automation", "usermail": "0059-automation@gmail.com", "userphone": "11999990059"},
+    {"username": "0060-automation", "usermail": "0060-automation@gmail.com", "userphone": "11999990060"}
   ]
 }

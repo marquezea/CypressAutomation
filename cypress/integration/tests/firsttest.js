@@ -1,4 +1,4 @@
-describe('Chipr Test - Basic Scenarios', () => {
+describe('CHIPR TEST AUTOMATION', () => {
 
     let sessionid
 
@@ -20,7 +20,7 @@ describe('Chipr Test - Basic Scenarios', () => {
         cy.wait(1000)
     })
 
-    it.skip('Criar jogadores', () => {
+    it('Criar Jogadores', () => {
         cy.on('window:confirm', function(alertText) {
             cy.log(alertText)   
         })
@@ -48,16 +48,13 @@ describe('Chipr Test - Basic Scenarios', () => {
                     expect(xhr.response.body).to.not.equal('mail_exists')
                     cy.get('body > div.bootbox.modal.fade.bootbox-alert.in > div.modal-dialog > div > div.modal-footer > button').click()
                 })
-
-                //cy.get('body > div.bootbox.modal.fade.bootbox-alert.in > div.modal-dialog > div > div.modal-body > div',{timeout:60000}).should('have.text', 'Já existe um usuário com este e-mail!')
-                //cy.get('body > div.bootbox.modal.fade.bootbox-alert.in > div.modal-dialog > div > div.modal-body > div',{timeout:60000}).should('have.text', 'Conta criada com sucesso!')
             }
         })
     })
 
-    it('Criar mesa de jogo Ring Game', () => {
+    it('Criar Mesa de Ring Game', () => {
         cy.on('window:confirm', function(alertText) {
-            cy.log(alertText)   
+            cy.log(alertText)
         })
 
         cy.log(sessionid)
@@ -82,8 +79,5 @@ describe('Chipr Test - Basic Scenarios', () => {
             cy.get('body > div.bootbox.modal.fade.in > div.modal-dialog > div > div.modal-footer > button').click()
             cy.wait(500)
         }
-
     })
-
-
 })  
