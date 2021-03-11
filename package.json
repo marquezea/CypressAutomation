@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "runchipr": "./node_modules/.bin/cypress run --spec 'cypress/integration/tests/firsttest.js'"
+    "runchipr": "./node_modules/.bin/cypress run --spec 'cypress/integration/tests/firsttest.js' --browser chrome --headless"
   },
   "author": "Adriano Marqueze",
   "license": "ISC",

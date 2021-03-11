@@ -5,20 +5,24 @@
   "chipremail": "kingpokercps@chipr.com.br",
   "chiprpwd": "Unix11!",
   "novos_jogadores": [
-    {"username": "0061-automation", "usermail": "0061-automation@gmail.com", "userphone": "11999990061"},
-    {"username": "0062-automation", "usermail": "0062-automation@gmail.com", "userphone": "11999990062"},
-    {"username": "0063-automation", "usermail": "0063-automation@gmail.com", "userphone": "11999990063"},
-    {"username": "0064-automation", "usermail": "0064-automation@gmail.com", "userphone": "11999990064"},
-    {"username": "0065-automation", "usermail": "0065-automation@gmail.com", "userphone": "11999990065"}
+    {"username": "0091-automation", "usermail": "0091-automation@gmail.com", "userphone": "11999990091"},
+    {"username": "0092-automation", "usermail": "0092-automation@gmail.com", "userphone": "11999990092"},
+    {"username": "0093-automation", "usermail": "0093-automation@gmail.com", "userphone": "11999990093"},
+    {"username": "0094-automation", "usermail": "0094-automation@gmail.com", "userphone": "11999990094"},
+    {"username": "0095-automation", "usermail": "0095-automation@gmail.com", "userphone": "11999990095"}
   ],
   "consumo": [
-    {"player": "0013", "qtd": "1"},
-    {"player": "0014", "qtd": "2"},
-    {"player": "0015", "qtd": "3"}
+    {"player": "0091", "qtd": "2"},
+    {"player": "0092", "qtd": "3"},
+    {"player": "0093", "qtd": "4"},
+    {"player": "0094", "qtd": "2"},
+    {"player": "0095", "qtd": "3"}
   ],
   "produtos": [
-    {"codigo": "7012", "nome": "Produto Novo 12", "venda":"100",  "custo":"75",  "comissao":"15"},
-    {"codigo": "7013", "nome": "Produto Novo 13", "venda":"100",  "custo":"75",  "comissao":"15"},
-    {"codigo": "7014", "nome": "Produto Novo 14", "venda":"100",  "custo":"75",  "comissao":"15"}
+    {"codigo": "7041", "nome": "Produto Novo 41", "venda":"100",  "custo":"75",  "comissao":"15"},
+    {"codigo": "7042", "nome": "Produto Novo 42", "venda":"100",  "custo":"75",  "comissao":"15"},
+    {"codigo": "7043", "nome": "Produto Novo 43", "venda":"100",  "custo":"75",  "comissao":"15"},
+    {"codigo": "7044", "nome": "Produto Novo 44", "venda":"100",  "custo":"75",  "comissao":"15"},
+    {"codigo": "7045", "nome": "Produto Novo 45", "venda":"100",  "custo":"75",  "comissao":"15"}
   ]
 }
